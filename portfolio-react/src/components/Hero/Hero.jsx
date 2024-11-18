@@ -4,7 +4,7 @@ import profile_img from '../../assets/profile_img.svg'
 export default function Hero() {
   return (
     
-      <div className="hero">
+      <div id='home' className="hero">
         <img src={profile_img}/>
 
         <h1><span>I am Shashika Ekanayaka.</span>I am a computer science 

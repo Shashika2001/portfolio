@@ -6,7 +6,7 @@ import arrow_icon from '../../assets/arrow_icon.svg'
 
 export default function Services() {
   return (
-    <div className='services'>
+    <div id='services' className='services'>
         <div className="services-title">
             <h1>Services</h1>
             <img src={theme_pattern} alt="" />
