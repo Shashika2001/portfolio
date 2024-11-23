@@ -1,12 +1,12 @@
 import React from 'react'
 import './Hero.css'
-import profile_img from '../../assets/profile_img.svg'
+import profile from '../../assets/profile.jpg'
 import AnchorLink from 'react-anchor-link-smooth-scroll'
 export default function Hero() {
   return (
     
       <div id='home' className="hero">
-        <img src={profile_img}/>
+        <img src={profile}/>
 
         <h1><span>I am Shashika Ekanayaka.</span>I am a computer science 
             undergraduate in UCSC
