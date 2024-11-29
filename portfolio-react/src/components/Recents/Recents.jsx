@@ -52,6 +52,13 @@ const LatestEvents = () => {
       location: "Online",
       description: "Learn about the latest trends in Dev-Ops.",
     },
+    {
+      id: 7,
+      name: "GDG session",
+      date: "2024-12-20",
+      location: "Online",
+      description: "Learn about the latest trends in Dev-Ops.",
+    },
   ]);
 
   return (
