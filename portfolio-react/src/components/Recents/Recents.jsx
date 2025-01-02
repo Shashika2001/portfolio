@@ -59,6 +59,14 @@ const LatestEvents = () => {
       location: "Online",
       description: "Learn about the latest trends in Dev-Ops.",
     },
+    {
+      id: 2,
+      name: "Portfolio Showcase",
+      date: "2024-12-15",
+      location: "San Francisco, CA",
+      description: "A platform to display creative portfolios and network.",
+    },
+    
   ]);
 
   return (
